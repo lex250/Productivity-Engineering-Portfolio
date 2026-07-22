@@ -72,8 +72,8 @@ Each project folder will include a dedicated `README.md` containing:
 
 ## Contact
 
-**Name:** [Leslie Jerry Anubi]  
-**LinkedIn:** [(https://www.linkedin.com/in/leslie-jerry-anubi/)]  
+**Name:** Leslie Jerry Anubi
+**LinkedIn:** (https://www.linkedin.com/in/leslie-jerry-anubi/) 
 **Portfolio:** [(https://v0.app/leslieanubi-2155s-projects/chat/productivity-engineer-portfolio-kWHo2nRiVGf?ref=AP6Y1G)]  
 **Email:** [leslie.anubi@gmail.com]
 
