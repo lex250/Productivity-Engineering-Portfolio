@@ -116,7 +116,7 @@ The exported workflow includes an active Priority-to-Telegram escalation path. T
 ## Evidence
 
 - [Workflow screenshot](./assets/smart-inbox-agent-workflow.png)
-- Sanitized n8n workflow export: to be added after credential references and personal identifiers have been removed.
+- Sanitized n8n workflow export: Available upon request.
 
 ---
 
