@@ -72,10 +72,10 @@ Each project folder will include a dedicated `README.md` containing:
 
 ## Contact
 
-**Name:** [Your Name]  
-**LinkedIn:** [Add your LinkedIn URL]  
-**Portfolio:** [Add your portfolio URL]  
-**Email:** [Add your professional email address]
+**Name:** [Leslie Jerry Anubi]  
+**LinkedIn:** [(https://www.linkedin.com/in/leslie-jerry-anubi/)]  
+**Portfolio:** [(https://v0.app/leslieanubi-2155s-projects/chat/productivity-engineer-portfolio-kWHo2nRiVGf?ref=AP6Y1G)]  
+**Email:** [leslie.anubi@gmail.com]
 
 ---
 
