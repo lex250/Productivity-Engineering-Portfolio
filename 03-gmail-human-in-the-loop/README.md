@@ -103,7 +103,7 @@ The workflow supports a single approval step before sending a reply. Potential i
 ## Evidence
 
 - [Annotated workflow screenshot](./assets/gmail-hitl-workflow.png)
-- Sanitized n8n workflow export: to be added after Gmail credential references and the configured reviewer email address have been removed.
+- Sanitized n8n workflow export: Available upon request.
 
 ---
 
