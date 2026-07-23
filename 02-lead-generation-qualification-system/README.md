@@ -135,7 +135,7 @@ The workflow creates CRM records, routes leads by temperature, and prepares draf
 ## Evidence
 
 - [Workflow screenshot](./assets/lead-generation-system-workflow.png)
-- Sanitized n8n workflow export: to be added after credential references, Google Sheet IDs, and other account-specific identifiers have been removed.
+- Sanitized n8n workflow export: Available upon request
 
 ---
 
