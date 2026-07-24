@@ -109,7 +109,7 @@ The workflow sources AI-tools news, writes structured content, and posts it to L
 ## Evidence
 
 - [Annotated workflow screenshot](./assets/linkedin-post-bot-workflow.png)
-- Sanitized n8n workflow export: to be added after LinkedIn account references and Groq credential references have been removed.
+- Sanitized n8n workflow export: Available upon request.
 
 ---
 
