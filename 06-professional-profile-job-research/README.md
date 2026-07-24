@@ -121,7 +121,7 @@ The workflow currently demonstrates the research-to-sheet pattern. Before produc
 ## Evidence
 
 - [Annotated workflow screenshot](./assets/professional-profile-job-research-workflow.png)
-- Sanitized n8n workflow export: to be added only after removing all API keys, account references, Google Sheet identifiers, and other account-specific data.
+- Sanitized n8n workflow export: Available upon request.
 
 ---
 
