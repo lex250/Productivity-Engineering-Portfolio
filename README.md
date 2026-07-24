@@ -19,7 +19,7 @@ I am building practical capability in designing productivity systems that combin
 | [Gmail Human-in-the-Loop System](./03-gmail-human-in-the-loop/) | An email automation that keeps a person in control before messages are sent. | n8n, Gmail, approvals, responsible automation |
 | [LinkedIn Post Bot](./04-linkedin-post-bot/) | A workflow that supports creating and managing LinkedIn content. | n8n, content automation, prompt engineering |
 | [Telegram Bot](./05-telegram-bot/) | A Telegram-based automated assistant workflow. | n8n, bot automation, integrations |
-| [LinkedIn Scraper](./06-linkedin-scraper/) | A prototype workflow for structured LinkedIn data collection. | Workflow automation, data handling |
+| [Professional Profile & Job Research Workflow](./06-professional-profile-job-research/) | A prototype workflow for discovering publicly indexed professional-profile or job-post URLs. | AI search design, Google Sheets, HTTP requests |
 | [RV Tenant Onboarding BPMN](./07-rv-tenant-onboarding-bpmn/) | A BPMN workflow map for a new RV tenant onboarding process. | BPMN, Lucidchart, process improvement |
 | [Donation Journey Redesign](./08-donation-journey-redesign/) | Current-state and improved-state user flows for a donation experience. | User flows, UX analysis, Lucidchart |
 | [Elevate Virtual Assistant Website](./09-elevate-virtual-assistant-website/) | A virtual-assistant website created with GoHighLevel. | Website building, GoHighLevel, digital experience |
