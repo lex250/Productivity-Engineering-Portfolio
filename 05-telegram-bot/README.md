@@ -98,7 +98,7 @@ The workflow creates a direct response to each Telegram message. Its memory sess
 ## Evidence
 
 - [Annotated workflow screenshot](./assets/telegram-bot-workflow.png)
-- Sanitized n8n workflow export: to be added after Telegram, OpenAI, and SerpAPI credential references have been removed.
+- Sanitized n8n workflow export: Available upon request.
 
 ---
 
