@@ -22,7 +22,7 @@ I am building practical capability in designing productivity systems that combin
 | [Professional Profile & Job Research Workflow](./06-professional-profile-job-research/) | A prototype workflow for discovering publicly indexed professional-profile or job-post URLs. | AI search design, Google Sheets, HTTP requests |
 | [Tenant Onboarding BPMN Case Study](./07-rv-tenant-onboarding-bpmn/) | An anonymized BPMN case study for a multi-stage tenant onboarding process. | BPMN, Lucidchart, process improvement |
 | [Donation Journey Redesign](./08-donation-journey-redesign/) | Current-state and improved-state user flows for a donation experience. | User flows, UX analysis, Lucidchart |
-| [Elevate Virtual Assistant Website](./09-elevate-virtual-assistant-website/) | A virtual-assistant website created with GoHighLevel. | Website building, GoHighLevel, digital experience |
+| [Elevate Virtual Assistant Website](./09-elevate-virtual-assistant/) | A virtual-assistant website created with GoHighLevel. | Website building, GoHighLevel, digital experience |
 | [Personal Portfolio Website](./10-personal-portfolio-website/) | A personal portfolio page developed with v0 and managed with GitHub. | v0, GitHub, web development fundamentals |
 
 ## Skills Demonstrated
